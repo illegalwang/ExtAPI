@@ -8,3 +8,7 @@
     --> git add .<br>
     --> git commit -m "这里写注释"<br>
     --> git push -u origin master<br>
+    
+    
+本库保存了Extjs4.0的API，可以输入：<br>
+                       https://illegalwang.github.io/ExtAPI/index.html           访问
