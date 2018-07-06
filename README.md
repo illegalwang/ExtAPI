@@ -11,4 +11,4 @@
     
     
 本库保存了Extjs4.0的API，可以输入：<br>
-                       https://illegalwang.github.io/ExtAPI/index.html           访问
+                       https://illegalwang.github.io/ExtAPI           访问
